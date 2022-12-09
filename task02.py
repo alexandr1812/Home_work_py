@@ -41,13 +41,4 @@ def multiplication(arr):
 
 print(multiplication(genereted_list))
 
-# def create_list(size_arr):
-#     arr = sample(range(1, size_arr * 2), k=size_arr)
-#     if a < 0:
-#         print('do not enter negative numbers!')
-#     return arr
-
-# function_call = create_list(int(input()))
-
-# def 
 
